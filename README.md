@@ -18,3 +18,5 @@ Inside the first, you need to nest an if...else if...else that puts appropriate 
 - Score of 90 to 100 — "What an amazing score! Did you cheat? Are you for real?"
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals
+
+Live web: https://gitthuma.github.io/conditionals-2/
